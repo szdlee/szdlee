@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @34v9
+- 👋 Hi, I’m @szdlee
 - 👀 I’m interested in Music and Programming
-- 🌱 I’m currently learning C# and HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on any kind of projects.
+- 🌱 I’m currently learning Java and Python
